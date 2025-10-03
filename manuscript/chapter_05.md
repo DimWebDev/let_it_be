@@ -1,6 +1,6 @@
 # Chapter 5: When 'No' Isn't Safe
 
-## Section 1: Risk and Harm Minimization
+## Risk and Harm Minimization
 
 ### The Apartment at Midnight
 
@@ -230,7 +230,7 @@ If you're in a situation where direct boundaries aren't safe, what's one small s
 
 ---
 
-## Section 2: Strategic Alternatives to 'No'
+## Strategic Alternatives to 'No'
 
 ### The Conditional Yes
 
