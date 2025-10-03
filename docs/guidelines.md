@@ -1,6 +1,23 @@
-# docs/Guidelines.md
+# docs/Guidelines.md### Point of View, Tone, and Tense
 
-## Writing Guidelines for *Let It Be, Let Me Be: Boundaries Without Guilt*
+* **POV:** Second person ("you"), with occasional first person plural ("we") for solidarity. Direct address creates immediacy and intimacy.
+* **Tone:** Compassionate, practical, and validating without slipping into jargon or therapy-speak. Always sound like a wise, empathetic guide who has been there.
+* **Tone Adjectives:** Warm, firm, gentle, direct, encouraging, non-judgmental, empowering, authentic, relatable, trustworthy, clear-eyed, hopeful, realistic, transformative, liberating.
+* **Theme Adjectives:** Boundary-setting as self-care, guilt as misfiring alarm, personal freedom through healthy limits, emotional intelligence in relationships, practical wisdom over perfectionism, compassionate self-advocacy, authentic connection through boundaries.
+
+---ting Guidelines for *L* **Repetition for retention:** Key tools (Pause-Label-Let, Boundary Breath, Repair without Retracting) should reappear in multiple contexts so they become "sticky."
+* **Empathy:** Validate reader struggle first, then introduce the tool. Example: "It makes sense you freeze up in the moment. Here's how to find your words again."
+
+---
+
+### Formatting Guidelines
+
+* **Markdown:** Use standard markdown formatting. The manuscript will be rendered to EPUB and paperback.
+* **No Emojis or Special Unicode:** Avoid emojis and decorative unicode characters that may cause encoding issues in print or digital formats. Use plain text and standard punctuation only.
+
+---
+
+Be, Let Me Be: Boundaries Without Guilt*
 
 This file establishes the stylistic, tonal, and structural rules for drafting the book. All chapters and sections from `docs/Outline.md` must follow these guidelines to maintain coherence and deliver on the promise defined in `docs/Project_Metadata.md`.
 
