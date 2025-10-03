@@ -5,7 +5,7 @@ This directory contains the scaffolded manuscript files for *Let It Be, Let Me B
 ## Structure
 
 - `manuscript.md` - Main manuscript file with table of contents
-- `chapter-01-guilt-guidance.md` - Chapter 1: Why Guilt ≠ Guidance
+- `chapter-01-guilt-guidance.md` - Chapter 1: Why Guilt Is Not Guidance
 - `chapter-02-four-boundaries.md` - Chapter 2: The Four Clean Boundaries
 - `chapter-03-unequal-power.md` - Chapter 3: Scripts for Unequal Power
 - `chapter-04-family-systems.md` - Chapter 4: Family Systems Without Drama Triangles

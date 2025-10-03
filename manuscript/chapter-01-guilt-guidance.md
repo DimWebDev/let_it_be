@@ -1,4 +1,4 @@
-# Chapter 1: Why Guilt ≠ Guidance
+# Chapter 1: Why Guilt Is Not Guidance
 
 ## Section 1: The False Alarm of Guilt
 

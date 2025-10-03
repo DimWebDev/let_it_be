@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-### Chapter 1: Why Guilt ≠ Guidance
+### Chapter 1: Why Guilt Is Not Guidance
 - Section 1: The False Alarm of Guilt
 - Section 2: Values as Compass, Not Guilt
 
