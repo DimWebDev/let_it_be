@@ -1,6 +1,6 @@
 # Chapter 1: Why Guilt Does Not Equal Guidance
 
-## Section 1: The False Alarm of Guilt
+## The False Alarm of Guilt
 
 Maya typed the text three times before sending it.
 
