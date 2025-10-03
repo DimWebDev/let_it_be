@@ -24,6 +24,7 @@ She was thirty-four years old. And she was tired.
 ---
 
 
+
 ### The Drama Triangle: How Families Get Stuck
 
 Family conflict is universal: research from the American Psychological Association finds that over 60% of adults report ongoing tension with at least one family member. These patterns are rarely about the surface issue—they’re about roles, expectations, and unspoken rules. The drama triangle, first described by Stephen Karpman, is one of the most common and persistent patterns in family life.
