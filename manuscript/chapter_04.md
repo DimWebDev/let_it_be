@@ -285,12 +285,5 @@ Neutrality isn't coldness. It's clarity. And clarity, delivered with warmth, is 
 
 ---
 
-
----
-
-## Chapter Summary & Next Steps
-
-Family systems are powerful, and drama triangles are sticky—but you are not powerless. By recognizing the patterns, practicing warm neutrality, and stepping out of old roles, you can change the emotional climate of your family (even if others don’t change right away). Remember: boundaries are not about withdrawal, but about creating space for healthier connection. As you move forward, notice where you feel pulled into old roles, and experiment with new responses. Change is uncomfortable, but it’s also the path to freedom.
-
 **Reflection:**
 Think of one family relationship where you struggle to balance warmth and boundaries. What would a warm neutral response sound like in that context? Try writing it down, just for practice.

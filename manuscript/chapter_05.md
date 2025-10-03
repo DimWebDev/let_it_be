@@ -435,12 +435,4 @@ If you're in a situation where saying no could harm you, please know:
 - You deserve support, resources, and safety.
 - There are people and organizations who can help.
 
-**If you need immediate support:**
-
-- **National Domestic Violence Hotline:** 1-800-799-7233 (call or text, 24/7)
-- **Crisis Text Line:** Text HOME to 741741
-- **National Sexual Assault Hotline:** 1-800-656-HOPE (4673)
-- **RAINN (Rape, Abuse & Incest National Network):** www.rainn.org
-- **Workplace Harassment:** Contact your HR department or the Equal Employment Opportunity Commission (EEOC)
-
 You're not alone. And when you're ready, you can build toward a life where boundaries are possible—not because you've gotten better at setting them, but because you've found or created environments where they're safe to hold.
