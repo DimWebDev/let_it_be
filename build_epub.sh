@@ -11,7 +11,7 @@ OUTPUT_FILE="How_to_Set_Boundaries_Without_Guilt.epub"
 METADATA="build/metadata.yaml"
 CSS="build/styles.css"
 MANUSCRIPT_DIR="manuscript"
-COVER_IMAGE="assets/cover/front_cover.jpg"   # optional, comment out if not present
+# Note: Cover embedding disabled. Upload cover separately on the publishing platform (e.g., Kindle KDP).
 
 # Chapter files in reading order
 CHAPTERS=(
@@ -69,13 +69,8 @@ PANDOC_ARGS=(
   --split-level=2
 )
 
-# Include cover if it exists
-if [[ -f "${COVER_IMAGE}" ]]; then
-  PANDOC_ARGS+=(--epub-cover-image="${COVER_IMAGE}")
-  echo "🖼  Using cover image: ${COVER_IMAGE}"
-else
-  echo "ℹ️  No cover image found, skipping."
-fi
+# Cover embedding intentionally disabled
+echo "ℹ️  Skipping embedded cover (handled by store upload)."
 
 # Append chapter files
 for file in "${CHAPTERS[@]}"; do
