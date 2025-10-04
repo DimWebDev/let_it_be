@@ -15,6 +15,7 @@ COVER_IMAGE="assets/cover/front_cover.jpg"   # optional, comment out if not pres
 
 # Chapter files in reading order
 CHAPTERS=(
+  "copyright.md"   # copyright (appears before TOC)
   "chapter_01.md"
   "chapter_02.md"
   "chapter_03.md"
@@ -64,7 +65,6 @@ PANDOC_ARGS=(
   --output="${OUTPUT_FILE}"
   --metadata-file="${METADATA}"
   --css="${CSS}"
-  --toc
   --toc-depth=3
   --split-level=2
 )
