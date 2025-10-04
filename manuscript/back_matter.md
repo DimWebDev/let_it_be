@@ -1,4 +1,4 @@
-# **Afterword: The Quiet Architecture of Freedom**
+# Afterword: The Quiet Architecture of Freedom
 
 At the beginning of this book, we met the sound of a false alarm.
 That restless, gnawing guilt—the one that made you doubt every no, every moment of rest, every breath of solitude—was never a reliable compass. It was simply a system miscalibrated by fear. A relic of old conditioning that mistook obedience for goodness and exhaustion for love.
@@ -22,7 +22,7 @@ That protecting your time, energy, and attention is not selfishness—it is stew
 
 ---
 
-### **The Anatomy of a Liberated Mind**
+## The Anatomy of a Liberated Mind
 
 The true work of boundaries is not behavioral—it is cognitive and moral. It asks: *What do I owe myself? What do I owe others? Where does care become compliance?*
 These are not easy questions, but they are the questions of adulthood. They are the questions of someone who no longer wishes to be governed by the past.
@@ -37,7 +37,7 @@ Each time you practice, your nervous system rewrites its story. Each repetition 
 
 ---
 
-### **The Shape of What Comes Next**
+## The Shape of What Comes Next
 
 There is a moment, somewhere between reaction and regret, when the self remembers its sovereignty. It is a split second—barely perceptible—but it changes everything. That is the moment when you decide not to abandon yourself.
 
@@ -57,7 +57,7 @@ your own trust returning.
 
 ---
 
-### **Freedom as Integrity**
+## Freedom as Integrity
 
 Freedom is not the absence of obligation. It is the alignment of obligation with values.
 It is knowing that when you say yes, you mean it—and when you say no, you do not abandon yourself.

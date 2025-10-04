@@ -408,19 +408,48 @@ Before you can assert a touch boundary, you need to know where your boundaries a
 
 **Step 1: Identify Your Zones**
 
-For each type of touch, mark whether you are comfortable with it in different relational contexts.
+For each type of touch, rate your comfort level in different relational contexts. Use this scale:
 
-| Type of Touch | Family | Close Friends | Acquaintances | Coworkers | Strangers |
-|---------------|--------|---------------|---------------|-----------|-----------|
-| Hug | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ |
-| Handshake | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ |
-| Shoulder touch | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ |
-| Arm around shoulder | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ |
-| Cheek kiss | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ | ☐ ☐ ☐ |
+- **Comfortable** = You welcome this touch and feel at ease
+- **Context-dependent** = Sometimes okay, depends on the situation or your mood
+- **Not comfortable** = You prefer to avoid this touch
 
-☐ = Comfortable
-☐ = Sometimes okay, depends on context
-☐ = Not comfortable
+Go through each type of touch below and note your comfort level for each relationship category:
+
+**Hug**
+- Family: _____________
+- Close Friends: _____________
+- Acquaintances: _____________
+- Coworkers: _____________
+- Strangers: _____________
+
+**Handshake**
+- Family: _____________
+- Close Friends: _____________
+- Acquaintances: _____________
+- Coworkers: _____________
+- Strangers: _____________
+
+**Shoulder Touch**
+- Family: _____________
+- Close Friends: _____________
+- Acquaintances: _____________
+- Coworkers: _____________
+- Strangers: _____________
+
+**Arm Around Shoulder**
+- Family: _____________
+- Close Friends: _____________
+- Acquaintances: _____________
+- Coworkers: _____________
+- Strangers: _____________
+
+**Cheek Kiss**
+- Family: _____________
+- Close Friends: _____________
+- Acquaintances: _____________
+- Coworkers: _____________
+- Strangers: _____________
 
 ---
 

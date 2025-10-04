@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# build_pdf.sh — Portable PDF build script for any book project
+# build_pdf_template.sh — Portable PDF build script for How to Set Boundaries Without Guilt
 # Customize the variables below for your specific book
 
 set -euo pipefail
@@ -8,16 +8,20 @@ set -euo pipefail
 # CONFIGURATION - Edit these for your book
 # ============================================================================
 
-OUTPUT_FILE="My_Book.pdf"
+OUTPUT_FILE="How_to_Set_Boundaries_Without_Guilt.pdf"
 METADATA="build/metadata.yaml"
 MANUSCRIPT_DIR="manuscript"
 
-# List your chapter files in order
+# Chapter files in reading order
 CHAPTERS=(
-  "00-front-matter.md"
-  "01-chapter-one.md"
-  "02-chapter-two.md"
-  "99-back-matter.md"
+  "chapter_01.md"
+  "chapter_02.md"
+  "chapter_03.md"
+  "chapter_04.md"
+  "chapter_05.md"
+  "chapter_06.md"
+  "chapter_07.md"
+  "back_matter.md"  # acknowledgments, resources, about the author
 )
 
 # ============================================================================
@@ -75,9 +79,9 @@ pandoc \
   --variable toccolor=black \
   --variable urlcolor=blue \
   --variable mainfont="Helvetica Neue" \
-  --variable documentclass=book \
+  --variable documentclass=extbook \
   --variable papersize=letter \
-  --variable classoption=openany \
+  --variable classoption="14pt,openany" \
   --variable block-headings \
   "${CHAPTER_FILES[@]}"
 

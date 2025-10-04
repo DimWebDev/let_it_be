@@ -1,21 +1,20 @@
 #!/usr/bin/env bash
 # build_epub.sh — One-shot EPUB build using Pandoc
-# Let It Be, Let Me Be: Boundaries Without Guilt by Antonius Coriolanus
+# How to Set Boundaries Without Guilt by Antonius Coriolanus
 
 set -euo pipefail
 
 # ───────────────────────────────
 # Configuration
 # ───────────────────────────────
-OUTPUT_FILE="Let_It_Be_Let_Me_Be.epub"
+OUTPUT_FILE="How_to_Set_Boundaries_Without_Guilt.epub"
 METADATA="build/metadata.yaml"
 CSS="build/styles.css"
 MANUSCRIPT_DIR="manuscript"
-COVER_IMAGE="assets/cover/cover.jpg"   # optional, comment out if not present
+COVER_IMAGE="assets/cover/front_cover.jpg"   # optional, comment out if not present
 
 # Chapter files in reading order
 CHAPTERS=(
-  "manuscript.md"   # title page + table of contents
   "chapter_01.md"
   "chapter_02.md"
   "chapter_03.md"
@@ -23,6 +22,7 @@ CHAPTERS=(
   "chapter_05.md"
   "chapter_06.md"
   "chapter_07.md"
+  "back_matter.md"  # acknowledgments, resources, about the author
 )
 
 # ───────────────────────────────
