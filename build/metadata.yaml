@@ -7,17 +7,16 @@ rights: "© 2025 Antonius Coriolanus. All rights reserved."
 date: 2025-10-04
 publisher: "Antonius Coriolanus Publishing"
 include-before: |
-  # Copyright {.unnumbered}
-
-  **How to Set Boundaries Without Guilt**
-
-  A Practical Guide to Saying No, Setting Limits, and Stopping People-Pleasing While Keeping Your Relationships Strong
-
-  © 2025 Antonius Coriolanus. All rights reserved.
+  \newpage
+  \thispagestyle{empty}
+  
+  **Copyright © 2025 Antonius Coriolanus. All rights reserved.**
 
   **Publisher:** Antonius Coriolanus Publishing
 
   **Published:** October 2025
+
+  **Cover design:** Antonius Coriolanus
 
   No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
