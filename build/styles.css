@@ -1,0 +1,160 @@
+/* German Grammar Unlocked - EPUB Stylesheet */
+/* Minimal, reader-friendly CSS for Kindle & EPUB3 */
+
+/* Body & Global Typography */
+body {
+  font-family: Georgia, serif;
+  line-height: 1.6;
+  margin: 1em;
+  text-align: left;
+}
+
+/* Headings */
+h1 {
+  font-size: 1.8em;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+  page-break-before: always;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+h4 {
+  font-size: 1em;
+  font-weight: bold;
+  margin-top: 0.8em;
+  margin-bottom: 0.4em;
+}
+
+/* Paragraphs */
+p {
+  margin: 0.5em 0;
+  text-indent: 0;
+}
+
+/* Lists */
+ul, ol {
+  margin: 0.8em 0;
+  padding-left: 2em;
+}
+
+li {
+  margin: 0.3em 0;
+}
+
+/* Emphasis */
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+/* Code Blocks (for tables, slot rulers, examples) */
+code, pre {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.9em;
+  background-color: #f5f5f5;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  margin: 1em 0;
+  padding: 0.5em;
+  border-left: 3px solid #ccc;
+  overflow-x: auto;
+}
+
+code {
+  padding: 0.1em 0.3em;
+}
+
+/* Blockquotes (for callouts, tips, warnings) */
+blockquote {
+  margin: 1em 1em;
+  padding: 0.5em 1em;
+  border-left: 4px solid #999;
+  background-color: #f9f9f9;
+  font-style: normal;
+}
+
+blockquote p {
+  margin: 0.3em 0;
+}
+
+/* Tables (text-only fallback) */
+table {
+  border-collapse: collapse;
+  margin: 1em 0;
+  width: 100%;
+  max-width: 100%;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.4em;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background-color: #f0f0f0;
+  font-weight: bold;
+}
+
+/* Page Breaks */
+.page-break {
+  page-break-after: always;
+}
+
+/* Answer Key & Exercise Formatting */
+.exercise-item {
+  margin: 0.5em 0;
+}
+
+.answer-key {
+  margin-top: 2em;
+  border-top: 2px solid #333;
+  padding-top: 1em;
+}
+
+/* Accessibility & Kindle Compatibility */
+a {
+  color: #0066cc;
+  text-decoration: underline;
+}
+
+/* Responsive adjustments for small screens */
+@media only screen and (max-width: 600px) {
+  body {
+    margin: 0.5em;
+    font-size: 1em;
+  }
+
+  h1 {
+    font-size: 1.6em;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  pre, code {
+    font-size: 0.85em;
+  }
+}
