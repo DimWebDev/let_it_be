@@ -53,19 +53,22 @@ pandoc \
   --toc \
   --toc-depth=3 \
   --top-level-division=chapter \
-  --variable geometry:margin=0.75in \
   --variable geometry:paperwidth=6in \
   --variable geometry:paperheight=9in \
-  --variable fontsize=12pt \
-  --variable linestretch=1.25 \
+  --variable geometry:top=0.75in \
+  --variable geometry:bottom=0.75in \
+  --variable geometry:left=0.75in \
+  --variable geometry:right=0.75in \
+  --variable fontsize=11pt \
+  --variable linestretch=1.15 \
   --variable colorlinks=true \
   --variable linkcolor=black \
   --variable toccolor=black \
   --variable urlcolor=blue \
   --variable mainfont="Helvetica Neue" \
   --variable documentclass=extbook \
-  --variable classoption="12pt,openany" \
-  --variable block-headings \
+  --variable classoption="11pt,openany,oneside" \
+  --variable pagestyle=plain \
   "${CHAPTER_FILES[@]}"
 
 if [[ $? -eq 0 ]]; then

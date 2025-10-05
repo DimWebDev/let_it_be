@@ -168,20 +168,41 @@ For each of your top five values, write one sentence describing what that value 
 
 **Example:**
 
-- *Value: Rest*
-- *What it looks like: I protect one full day each week where I do not work, do not run errands, and do not feel obligated to be productive.*
+**Value:** Rest
+
+**What it looks like:** I protect one full day each week where I do not work, do not run errands, and do not feel obligated to be productive.
+
+---
 
 Now do the same for your five:
 
-1. ___________________________: _____________________________________________________
+**1. Value:**
 
-2. ___________________________: _____________________________________________________
+**What it looks like:**
 
-3. ___________________________: _____________________________________________________
+---
 
-4. ___________________________: _____________________________________________________
+**2. Value:**
 
-5. ___________________________: _____________________________________________________
+**What it looks like:**
+
+---
+
+**3. Value:**
+
+**What it looks like:**
+
+---
+
+**4. Value:**
+
+**What it looks like:**
+
+---
+
+**5. Value:**
+
+**What it looks like:**
 
 ---
 
